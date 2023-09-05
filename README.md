@@ -2,13 +2,13 @@
   ### Eu sou o Samuel, seja bem vindo ao meu repositório
   <div align="center">
     <a href="https://github.com/Samuel-pixe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel-pixe&count_private=true&show_icons=true&theme=react" 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel-pixe&count_private=true&show_icons=true&theme=transparent" 
          width="400" />
     </a>
     <a href="https://github.com/Samuel-pixe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-pixe&layout=compact&theme=react&langs_count=8"width="300"height="157" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-pixe&layout=compact&theme=transparent&langs_count=8"width="300"height="157" />
   </a>
-     <img alt="Samuel-pixe Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Samuel-pixe&theme=react" />
+     <img alt="Samuel-pixe Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Samuel-pixe&theme=transparent" />
   </div>
    
  <div style="display: inline_block" align="center"><br>
