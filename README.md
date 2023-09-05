@@ -2,7 +2,7 @@
   ### Eu sou o Samuel, seja bem vindo ao meu repositório
   <div align="center">
     <a href="https://github.com/Samuel-pixe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel-pixe&count_private=true&show_icons=true&theme=react" 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel-pixe&count_private=true&show_icons=true&theme=transparent" 
          width="400" />
     </a>
     <a href="https://github.com/Samuel-pixe">
