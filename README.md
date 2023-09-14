@@ -1,5 +1,7 @@
 
-  ### Eu sou o Samuel, seja bem vindo ao meu repositório
+  ### Bem-vindo ao meu GitHub! 👋
+ ## É um prazer tê-lo por aqui! Este é o lugar onde compartilho meu trabalho, projetos e contribuições para a comunidade de código aberto. Sinta-se à vontade para explorar meus repositórios e descobrir o que estou trabalhando atualmente.
+  
   <div align="center">
     <a href="https://github.com/Samuel-pixe">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel-pixe&count_private=true&show_icons=true&theme=gruvbox" 
