@@ -4,10 +4,11 @@
   
   <div align="center">
     <a href="https://github.com/Samuel-pixe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-pixe&layout=compact&theme=gruvbox&langs_count=8"width="350"height="185" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-pixe&layout=compact&theme=gruvbox&langs_count=8"width="300"height="185" />
   </a>
       <img align="center" alt="Samuel-pixe Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Samuel-pixe&theme=gruvbox" />
   </div>
+  
    
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Samuel-pixe-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
