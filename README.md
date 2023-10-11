@@ -4,12 +4,12 @@
   
   <div align="center">
     <a href="https://github.com/Samuel-pixe">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel-pixe&count_private=true&show_icons=true&theme=gruvbox"width="400" />
+    </a>
+    <a href="https://github.com/Samuel-pixe">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-pixe&layout=compact&theme=gruvbox&langs_count=8"width="300"height="157" />
   </a>
-    <a href="https://github.com/Samuel-pixe">
       <img alt="Samuel-pixe Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Samuel-pixe&theme=gruvbox" />
-    </a>
-     
   </div>
    
  <div style="display: inline_block" align="center"><br>
