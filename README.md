@@ -6,7 +6,7 @@
     <a href="https://github.com/Samuel-pixe">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-pixe&layout=compact&theme=gruvbox&langs_count=8"width="300"height="185" />
   </a>
-      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samuel-pixe&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+      <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Samuel-pixe&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   </div>
   
    
