@@ -4,9 +4,8 @@
   
   <div align="center">
     <a href="https://github.com/Samuel-pixe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-pixe&layout=compact&theme=gruvbox&langs_count=8"width="300"height="185" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-pixe&layout=compact&theme=gruvbox&langs_count=8"width="300"height="300" />
   </a>
-      
   </div>
   
    
